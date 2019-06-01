@@ -1,0 +1,8 @@
+# Sanic web-framework dependencies
+sanic>=19.3.1
+sanic-gunicorn
+sanic-openapi
+
+# Project speciefic dependencies
+docker>=4.0.1
+click
