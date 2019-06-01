@@ -5,4 +5,3 @@ sanic-openapi
 
 # Project speciefic dependencies
 docker>=4.0.1
-click
