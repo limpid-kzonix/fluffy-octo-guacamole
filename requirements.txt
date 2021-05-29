@@ -5,3 +5,4 @@ sanic-openapi
 
 # Project speciefic dependencies
 docker>=4.0.1
+websockets>=9.1 # not directly required, pinned by Snyk to avoid a vulnerability
