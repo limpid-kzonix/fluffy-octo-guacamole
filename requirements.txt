@@ -1,8 +1,17 @@
-# Sanic web-framework dependencies
-sanic>=19.3.1
-sanic-gunicorn
-sanic-openapi
-
-# Project speciefic dependencies
-docker>=4.0.1
-websockets>=9.1 # not directly required, pinned by Snyk to avoid a vulnerability
+aiofiles==22.1.0
+aioquic==0.9.20
+docker==6.0.0
+gunicorn==20.1.0
+requests==2.28.1
+sanic==22.9.0
+sanic-ext==22.9.0
+sanic-gunicorn==0.1.2
+sanic-openapi==21.12.0
+sanic-routing==22.8.0
+sanic-testing==22.9.0
+tomli==2.0.1
+ujson==5.5.0
+urllib3==1.26.12
+uvloop==0.17.0
+websocket-client==1.4.1
+websockets==10.3
