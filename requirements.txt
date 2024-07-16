@@ -15,4 +15,4 @@ urllib3==1.26.12
 uvloop==0.17.0
 websocket-client==1.4.1
 websockets==11.0.1
-setuptools>=65.5.1 # not directly required, pinned by Snyk to avoid a vulnerability
+setuptools>=70.0.0 # not directly required, pinned by Snyk to avoid a vulnerability
